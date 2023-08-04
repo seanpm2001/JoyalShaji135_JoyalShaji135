@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&" alt="joyalshaji135" />
 
-(https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+
