@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en" alt="joyalshaji135" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&" alt="joyalshaji135" />
+
+(https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
