@@ -26,10 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalshaji135&show_icons=true&locale=en&layout=compact" alt="joyalshaji135" /></p>
 
-<p><img align="left" alt="Code" width="100" height="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></p>
-
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en" alt="joyalshaji135" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en" alt="joyalshaji135" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&" alt="joyalshaji135" /></p>
 
