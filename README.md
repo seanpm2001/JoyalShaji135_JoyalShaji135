@@ -31,15 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en" alt="joyalshaji135" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&" alt="joyalshaji135" />
-
-<table border="1">
-            <tr>
-                <th>Hrllo</th>
-                <th>hojos</th>
-                <th>jkxl</th>
-            </tr>
-            <tr>
-                <td>slkdjfl</td>
-                <td>dfhksjd</td>
-            </tr>
-        </table>
