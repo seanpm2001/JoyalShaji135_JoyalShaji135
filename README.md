@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CSS Aduvanced**
 
-- 💬 Ask me about **MERN , MEAN , MEVN , FLUTTER , PHP DEVLOPER**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **joyalshaji755@gmail.com**
 
