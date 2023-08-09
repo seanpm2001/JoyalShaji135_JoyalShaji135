@@ -31,11 +31,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalshaji135&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joyalshaji135" /></p>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=tokyonight" alt="joyalshaji135" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&&theme=tokyonight" alt="joyalshaji135" /></p>
-
 
 
 
