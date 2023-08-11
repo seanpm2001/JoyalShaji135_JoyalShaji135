@@ -27,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/joyalshaji135@gmail.com"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joyalshaji135@gmail.com" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalshaji135&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joyalshaji135" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=tokyonight" alt="joyalshaji135" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&" alt="joyalshaji135" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=tokyonight" alt="joyalshaji135" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&" alt="joyalshaji135" /></p>
 
 <img align="right" alt="Code" width="300" height="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p><img align="center" width="900" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="joyalshaji135" /></p>
