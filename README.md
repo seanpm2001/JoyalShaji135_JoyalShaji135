@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=tokyonight" alt="joyalshaji135" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&" alt="joyalshaji135" /></p>
 
-<img align="right" alt="Code" width="300" height="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<p><img align="right" alt="Code" width="300" height="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></p>
 <p><img align="left" width="900" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="joyalshaji135" /></p>
 <img align="center" alt="Code" width="900" height="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
