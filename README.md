@@ -28,7 +28,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="8590343392@paytm"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joyalshaji135@gmail.com" /></a></p><br><br><br><br>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalshaji135&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joyalshaji135" /></p>
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&bg_color=00000000&theme=synthwave)
+  
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=tokyonight" alt="joyalshaji135" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&&theme=tokyonight" alt="joyalshaji135" />
