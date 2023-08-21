@@ -30,7 +30,7 @@
 <hr>
 <h3 align="left">Used Languages</h3>
 
-  ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&bg_color=00000000&theme=synthwave)
+  ![Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&bg_color=00000000&theme=synthwave)
 
   
 <hr>
