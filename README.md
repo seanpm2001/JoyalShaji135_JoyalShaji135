@@ -42,3 +42,17 @@
 
 <img align="center" alt="Code" width="900" height="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
+
+
+<!-- <hr>
+<h3 align="left">Used Languages</h3>
+
+  ![Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&bg_color=00000000&theme=synthwave)
+
+  
+<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=tokyonight" alt="joyalshaji135" /></p>
+<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&&theme=tokyonight" alt="joyalshaji135" />
+<img align="right" alt="Code" width="200" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></p>
+<hr> -->
