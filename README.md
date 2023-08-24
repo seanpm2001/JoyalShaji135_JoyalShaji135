@@ -36,7 +36,7 @@
 <br><br><br><br><br><br><br>
 <hr>
 <h3 align="left">Github Profile Trophy:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyalshaji135&theme=juicyfresh" alt="joyalshaji135" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyalshaji135&theme=gruvbox" alt="joyalshaji135" /></a> </p>
 <hr>
 <p><img align="left" width="900" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="joyalshaji135" /></p>
 
