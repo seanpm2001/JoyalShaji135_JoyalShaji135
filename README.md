@@ -23,17 +23,17 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="8590343392@paytm"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joyalshaji135@gmail.com" /></a></p><br><br><br><br>
-<hr>
-<h3 align="left">Used Languages</h3>
+### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&theme=dark&hide_border=false"  /></p>
 
-  ![Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&bg_color=00000000&theme=synthwave)
 
-  
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=tokyonight" alt="joyalshaji135" /></p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&&theme=tokyonight" alt="joyalshaji135" />
-<img align="right" alt="Code" width="200" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></p>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalshaji135&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br>
 <hr>
 <h3 align="left">Github Profile Trophy:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyalshaji135&theme=juicyfresh" alt="joyalshaji135" /></a> </p>
