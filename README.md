@@ -1,10 +1,9 @@
 <img align="center" alt="Coding" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
 <h1 align="center">Hi 👋, I'm Joyal Shaji</h1>
 <h3 align="center">A passionate Full Stack Develper from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyalshaji135&label=Profile Viewers&color=0e75b6&style=flat" alt="joyalshaji135" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <a href="https://twitter.com/joyalshaji135" target="blank"><img src="https://img.shields.io/twitter/follow/joyalshaji135?logo=twitter&style=for-the-badge" alt="joyalshaji135" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
@@ -23,7 +22,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="8590343392@paytm"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joyalshaji135@gmail.com" /></a></p><br><br><br><br>
-### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+🔥 <b>Streak Stats</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&theme=dark&hide_border=false"  /></p>
 
 
