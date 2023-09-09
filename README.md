@@ -1,4 +1,4 @@
-<img align="center" alt="Coding g" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
+<img align="center" alt="Coding " src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
 <h1 align="center">Hi 👋, I'm Joyal Shaji</h1>
 <h3 align="center">A passionate Full Stack Develper from India</h3>
 
