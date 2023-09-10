@@ -1,6 +1,14 @@
 <img align="center" alt="Coding" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
-<h1 align="center">Hi 👋, I'm Joyal Shaji</h1>
-<h3 align="center">A passionate Full Stack Develper from India</h3>
+<h1 align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joyal+Shaji....;Nice+to+meet+you!&center=true&size=30">
+        </a>
+      </h1>
+<h1 align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate;Full+Stack+Developer....;From+India&center=true&size=30">
+        </a>
+      </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyalshaji135&label=Profile Viewers&color=0e75b6&style=flat" alt="joyalshaji135" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
