@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
-<h1 align="center">  
+<h1 align="center"> 
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joyal+Shaji....;Nice+to+meet+you!&center=true&size=30"> 
         </a>
