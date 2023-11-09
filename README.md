@@ -41,12 +41,27 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-</p><p> <a href="https://github.com/joyalshaji135" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+</p><p> <a href="https://github.com/joyalshaji135" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="ovi" width="410" /></p>
 <hr>
-<h3 align="left">Github Profile Trophy:</h3>
+<h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyalshaji135&theme=gruvbox" alt="joyalshaji135" /></a> </p>
+
 <hr>
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=false)
+
+<hr>
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=joyalshaji135&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+<hr>
+
  <p><img align="left" width="1000" src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" alt="joyalshaji135" /></p> 
 
 <img align="center" alt="Code" width="1000" height="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
@@ -65,3 +80,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&&theme=tokyonight" alt="joyalshaji135" />
 <img align="right" alt="Code" width="200" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></p>
 <hr> -->
+<hr>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
