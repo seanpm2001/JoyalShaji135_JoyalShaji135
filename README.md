@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **CSS Aduvanced**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **MERN**
 
