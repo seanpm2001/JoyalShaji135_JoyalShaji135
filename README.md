@@ -40,7 +40,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/joyalshaji"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joyalshaji135@gmail.com" /></a></p><br><br><br><br>
 🔥 <b>Streak Stats</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&theme=dark&hide_border=false"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&theme=chartreuse-dark&hide_border=false"  /></p>
 
 
 <hr>
@@ -91,9 +91,9 @@
 <p align = "center">
 
  
-  <img src = "https://github-contributor-stats.vercel.app/api?username=joyalshaji135&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img src = "https://github-contributor-stats.vercel.app/api?username=joyalshaji135&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true">
    &nbsp&nbsp&nbsp&nbsp
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&langs_count=20&layout=compact&theme=chartreuse-dark&include_all_commits=true&line_height=27">
 </p>
 
 
