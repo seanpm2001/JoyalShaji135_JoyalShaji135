@@ -1,12 +1,11 @@
 <img align="center" alt="Coding    " src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">   
 
-<div align="center" >
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Joyal+Shaji;joyalshaji135;Full+Stack+Developer;MERN!)](https://git.io/typing-svg)
  
-<div>
+
 <!-- <h1 align="center">
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate;Full+Stack+Developer....;From+India&center=true&size=30">
@@ -48,6 +47,24 @@
 </p><p> <a href="https://github.com/joyalshaji135" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="ovi" width="410" /></p>
 <hr>
+
+<h1 align="center">
+    Hey how´s it going? Be welcome! 😃️
+  </h1>
+   <p align="center">
+    Come codar with me, your contribution will be very welcome! 😉️
+  </p> 
+</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+    
+</div>
+</div>
+
+<hr>
+
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center"> 
 
